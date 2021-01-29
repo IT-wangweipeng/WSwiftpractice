@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1850760C25C39E4A003EC542 /* GitTestObj.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1850760B25C39E4A003EC542 /* GitTestObj.swift */; };
 		18E9CD7D259C220100EB6AE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9CD7C259C220100EB6AE3 /* AppDelegate.swift */; };
 		18E9CD7F259C220100EB6AE3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9CD7E259C220100EB6AE3 /* SceneDelegate.swift */; };
 		18E9CD81259C220100EB6AE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9CD80259C220100EB6AE3 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1850760B25C39E4A003EC542 /* GitTestObj.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestObj.swift; sourceTree = "<group>"; };
 		18E9CD79259C220100EB6AE3 /* WSwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WSwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18E9CD7C259C220100EB6AE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18E9CD7E259C220100EB6AE3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				18E9CD7C259C220100EB6AE3 /* AppDelegate.swift */,
 				18E9CD7E259C220100EB6AE3 /* SceneDelegate.swift */,
 				18E9CD91259C22BF00EB6AE3 /* ViewController.swift */,
+				1850760B25C39E4A003EC542 /* GitTestObj.swift */,
 				18E9CD80259C220100EB6AE3 /* ContentView.swift */,
 				18E9CD94259C233F00EB6AE3 /* Resource */,
 				18E9CD82259C220400EB6AE3 /* Assets.xcassets */,
@@ -168,6 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1850760C25C39E4A003EC542 /* GitTestObj.swift in Sources */,
 				18E9CD7D259C220100EB6AE3 /* AppDelegate.swift in Sources */,
 				18E9CD7F259C220100EB6AE3 /* SceneDelegate.swift in Sources */,
 				18E9CD92259C22BF00EB6AE3 /* ViewController.swift in Sources */,
