@@ -11,5 +11,7 @@ class GitTestObj: NSObject {
 
     let str1 = "我是第一个字符串"
     
+    let str2 = "我是第二个字符串"
+    
     
 }
