@@ -13,5 +13,7 @@ class GitTestObj: NSObject {
     
     let str2 = "我是第二个字符串"
     
+    let str3 = "我是第三个字符串"
+    
     
 }
